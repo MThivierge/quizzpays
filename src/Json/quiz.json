@@ -1,0 +1,200 @@
+{
+
+    "data": [
+        {
+            "name": "Algérie",
+            "capital": "Alger",
+            "flag": "https://restcountries.com/data/dza.svg",
+            "currencies": [{"name": "Algerian dinar", "symbol": "د.ج"}],
+            "languages": [{"name": "Arabic"}],
+            "population" : 43851043
+        },
+        {
+            "name": "Bangladesh",
+            "capital": "Dacca",
+            "flag": "https://restcountries.com/data/bgd.svg",
+            "currencies": [{"name": "Bangladeshi taka", "symbol": "৳"}],
+            "languages": [{"name": "Bengali"}],
+            "population" : 164689383
+        },
+        {
+            "name": "Chypre",
+            "capital": "Nicosie",
+            "flag": "https://restcountries.com/data/cyp.svg",
+            "currencies": [{"name": "Euro", "symbol": "€"}],
+            "languages": [{"name": "Greek (modern)"}, {"name": "Turkish"}, {"name": "Armenian"}],
+            "population" : 1207361
+        },
+        {
+            "name": "Dominique",
+            "capital": "Roseau",
+            "flag": "https://restcountries.com/data/dma.svg",
+            "currencies": [{"name": "East Caribbean dollar", "symbol": "$"}],
+            "languages": [{"name": "English"}],
+            "population" : 71991
+        },
+        {
+            "name": "Érythrée",
+            "capital": "Asmara",
+            "flag": "https://restcountries.com/data/eri.svg",
+            "currencies": [{"name": "Eritrean nakfa", "symbol": "Nfk"}],
+            "languages": [{"name": "Tigrinya"}, {"name": "Arabic"}, {"name": "English"}, {"name": "Tigre"}, {"name": "Kunama"}, 
+                {"name": "Saho"}, {"name": "Bilen"}, {"name": "Nara"}, {"name": "Afar"}],
+            "population" : 5352000
+        },
+        {
+            "name": "Fidji",
+            "capital": "Suva",
+            "flag": "https://restcountries.com/data/fji.svg",
+            "currencies": [{"name": "Fijian dollar", "symbol": "$"}],
+            "languages": [{"name": "English"}, {"name": "Fijian"}, {"name": "Fiji Hindi"}, {"name": "Rotuman"}],
+            "population" : 	896444
+        },
+        {
+            "name": "Gabon",
+            "capital": "Libreville",
+            "flag": "https://restcountries.com/data/gab.svg",
+            "currencies": [{"name": "Central African CFA franc", "symbol": "Fr"}],
+            "languages": [{"name": "French"}],
+            "population" : 2225728
+        },
+        {
+            "name": "Honduras",
+            "capital": "Tegucigalpa",
+            "flag": "https://restcountries.com/data/hnd.svg",
+            "currencies": [{"name": "Honduran lempira", "symbol": "L"}],
+            "languages": [{"name": "Spanish"}],
+            "population" : 9904608
+        },
+        {
+            "name": "Indonésie",
+            "capital": "Jakarta",
+            "flag": "https://restcountries.com/data/idn.svg",
+            "currencies": [{"name": "Indonesian rupiah", "symbol": "Rp"}],
+            "languages": [{"name": "Indonesian"}],
+            "population" : 273523621
+        },
+        {
+            "name": "Jordanie",
+            "capital": "Amman",
+            "flag": "https://restcountries.com/data/jor.svg",
+            "currencies": [{"name": "Jordanian dinar", "symbol": "د.ا"}],
+            "languages": [{"name": "Arabic"}],
+            "population" : 10203140
+        },
+        {
+            "name": "Kiribati",
+            "capital": "Tarawa",
+            "flag": "https://restcountries.com/data/kir.svg",
+            "currencies": [{"name": "Australian dollar", "symbol": "$"}],
+            "languages": [{"name": "English"}],
+            "population" : 119446
+        },
+        {
+            "name": "Laos",
+            "capital": "Vientiane",
+            "flag": "https://restcountries.com/data/lao.svg",
+            "currencies": [{"name": "Lao kip", "symbol": "₭"}],
+            "languages": [{"name": "Lao"}],
+            "population" : 7275556
+        },
+        {
+            "name": "Macédoine",
+            "capital": "Skopje",
+            "flag": "https://restcountries.com/data/mkd.svg",
+            "currencies": [{"name": "Macedonian denar", "symbol": "ден"}],
+            "languages": [{"name": "Macedonian"}],
+            "population" : 2083380
+        },
+        {
+            "name": "Namibie",
+            "capital": "Windhoek",
+            "flag": "https://restcountries.com/data/nam.svg",
+            "currencies": [{"name": "Namibian dollar", "symbol": "$"}, {"name": "South African rand", "symbol": "R"}],
+            "languages": [{"name": "English"}, {"name": "Afrikaans"}],
+            "population" : 2540916
+        },
+        {
+            "name": "Oman",
+            "capital": "Mascate",
+            "flag": "https://restcountries.com/data/omn.svg",
+            "currencies": [{"name": "Omani rial", "symbol": "ر.ع."}],
+            "languages": [{"name": "Arabic"}],
+            "population" : 5106622
+        },
+        {
+            "name": "Pologne",
+            "capital": "Varsovie",
+            "flag": "https://restcountries.com/data/pol.svg",
+            "currencies": [{"name": "Polish złoty", "symbol": "zł"}],
+            "languages": [{"name": "Polish"}],
+            "population" : 37950802
+        },
+        {
+            "name": "Qatar",
+            "capital": "Al-Dawha",
+            "flag": "https://restcountries.com/data/qat.svg",
+            "currencies": [{"name": "Qatari riyal", "symbol": "ر.ق"}],
+            "languages": [{"name": "Arabic"}],
+            "population" : 2881060
+        },
+        {
+            "name": "Rwanda",
+            "capital": "Kigali",
+            "flag": "https://restcountries.com/data/rwa.svg",
+            "currencies": [{"name": "Rwandan franc", "symbol": "Fr"}],
+            "languages": [{"name": "Kinyarwanda"}, {"name": "English"}, {"name": "French"}],
+            "population" : 12952209
+        },
+        {
+            "name": "Sierra Leone",
+            "capital": "Freetown",
+            "flag": "https://restcountries.com/data/sle.svg",
+            "currencies": [{"name": "Sierra Leonean leone", "symbol": "Le"}],
+            "languages": [{"name": "English"}],
+            "population" : 7976985
+        },
+        {
+            "name": "Timor oriental",
+            "capital": "Dili",
+            "flag": "https://restcountries.com/data/tls.svg",
+            "currencies": [{"name": "Thai baht", "symbol": "฿"}],
+            "languages": [{"name": "Portuguese"}],
+            "population" : 1318442
+        },
+        {
+            "name": "Uruguay",
+            "capital": "Montevideo",
+            "flag": "https://restcountries.com/data/ury.svg",
+            "currencies": [{"name": "Uruguayan peso", "symbol": "$"}],
+            "languages": [{"name": "Spanish"}],
+            "population" : 3473727
+        },
+        {
+            "name": "Viêt Nam",
+            "capital": "Hanoï",
+            "flag": "https://restcountries.com/data/vnm.svg",
+            "currencies": [{"name": "Vietnamese đồng", "symbol": "₫"}],
+            "languages": [{"name": "Vietnamese"}],
+            "population" : 97338583
+        },
+        {
+            "name": "Yémen",
+            "capital": "Sanaa",
+            "flag": "https://restcountries.com/data/yem.svg",
+            "currencies": [{"name": "Yemeni rial", "symbol": "﷼"}],
+            "languages": [{"name": "Arabic"}],
+            "population" : 29825968
+        },
+        {
+            "name": "Zambie",
+            "capital": "Lusaka",
+            "flag": "https://restcountries.com/data/zmb.svg",
+            "currencies": [{"name": "Zambian kwacha", "symbol": "ZK"}],
+            "languages": [{"name": "English"}],
+            "population" : 18383956
+        }
+
+    ]
+
+}

@@ -1,0 +1,46 @@
+section {
+  flex: 1;
+  padding: 10px;
+  margin: 10px;
+}
+
+.bonneRep {
+  background-color: lightgreen;
+  border: solid limegreen 1px;
+}
+
+.mauvaiseRep {
+  background-color: lightpink;
+  border: solid red 1px;
+}
+.repIdentique {
+  background-color: rgb(193, 182, 255);
+  border: solid rgb(55, 0, 255) 1px;
+}
+
+img {
+  max-height: 100%;
+  color: black;
+  border: solid lightgray 1px;
+}
+
+.centrer {
+  width: 100%;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.carte{
+  height: 100%;
+  padding: 5px;
+  color: black;
+}
+
+.description{
+  margin: 5px;
+}
+
+.listeItem{
+  margin: 0px;
+}
